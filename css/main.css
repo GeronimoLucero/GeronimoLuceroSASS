@@ -1,0 +1,17 @@
+/* comentario en sass y css*/
+@imp // variables (segundo superpoder)
+$color-principal:black
+$color-principal: yellow;
+header {
+  background-color: darkgoldenrod;
+  width: 500px;
+  box-shadow: 3px 3px pink; }
+  header h1 {
+    text-shadow: 1px 1px black; }
+
+.menu {
+  background-color: aquamarine;
+  width: 300px; }
+  .menu ul {
+    list-style: none;
+    background-color: aqua; }

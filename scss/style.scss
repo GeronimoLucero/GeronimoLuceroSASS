@@ -1,0 +1,29 @@
+//Linea de comentario
+/* comentario en sass y css*/
+//Import 
+@import "utilities/contacto"
+
+// variables (segundo superpoder)
+
+
+
+//nesting (primer poder)
+
+header{
+    background-color: darkgoldenrod;
+    width: 500px;
+    box-shadow: 3px 3px pink;
+    h1{
+        text-shadow: 1px 1px black;
+    }
+    
+}
+
+.menu{
+   background-color: aquamarine;
+   width: 300px;
+   ul{
+    list-style: none;
+    background-color: aqua;
+   }
+}
